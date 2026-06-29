@@ -32,7 +32,6 @@ I write 100% of my own backend code. I use AI tooling for frontend implementatio
 * **Multi-Tenancy:** Managing strict tenant isolation (database, cache, and filesystem) dynamically based on the active domain.
 * **Security & Auth:** Building custom OAuth flows on top of Laravel Breeze and implementing telemetry layers to protect sessions against hijacking.
 * **AI-Assisted Efficiency:** Using AI tools to quickly build and prototype frontends (Blade & Tailwind) to keep my focus on backend architecture.
-* **Seamless Async Collaboration:** Operating from Cairo (UTC+2) provides a solid 6–8 hour overlap with Western Europe/UK and early hours with the US for real-time standups with zero overnight delays.
 ```
 🌍  Cairo, Egypt (UTC+2) — open to remote / contract roles
 🎯  Backend-focused — Laravel, PHP, multi-tenant SaaS architecture
