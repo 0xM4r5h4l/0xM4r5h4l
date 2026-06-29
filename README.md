@@ -6,7 +6,6 @@
 <p>
   <img src="https://img.shields.io/badge/PHP-8.2+-090A0F?style=flat-square&logo=php&logoColor=777BB4&labelColor=090A0F" />
   <img src="https://img.shields.io/badge/Laravel-12-090A0F?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor=090A0F" />
-  <img src="https://img.shields.io/badge/Redis-Cache%20%26%20Queues-090A0F?style=flat-square&logo=redis&logoColor=DC382D&labelColor=090A0F" />
   <img src="https://img.shields.io/badge/MySQL-Primary%20Store-090A0F?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=090A0F" />
   <img src="https://img.shields.io/badge/Filament-Admin%20Panels-090A0F?style=flat-square&logo=php&logoColor=FDAE4B&labelColor=090A0F" />
   <img src="https://img.shields.io/badge/Docker-Deployment-090A0F?style=flat-square&logo=docker&logoColor=2496ED&labelColor=090A0F" />
@@ -25,6 +24,10 @@ One year in professionally, but the way I work doesn't read like a first-year pr
  
 I write 100% of my own backend code. I use AI tooling for frontend implementation (Blade/Tailwind), which lets me put my actual hours into the part I care about: how the system is built underneath.
 
+```
+🌍  Cairo, Egypt (UTC+2) — open to remote / contract roles
+📦  Currently shipping a confidential enterprise multi-tenant SaaS platform
+```
 
 #### ⚡ What I Bring to Your Team:
 * **Clean Architecture:** Keeping controllers thin by routing business logic through Services and using strongly-typed DTOs.
@@ -32,11 +35,6 @@ I write 100% of my own backend code. I use AI tooling for frontend implementatio
 * **Multi-Tenancy:** Managing strict tenant isolation (database, cache, and filesystem) dynamically based on the active domain.
 * **Security & Auth:** Building custom OAuth flows on top of Laravel Breeze and implementing telemetry layers to protect sessions against hijacking.
 * **AI-Assisted Efficiency:** Using AI tools to quickly build and prototype frontends (Blade & Tailwind) to keep my focus on backend architecture.
-```
-🌍  Cairo, Egypt (UTC+2) — open to remote / contract roles
-🎯  Backend-focused — Laravel, PHP, multi-tenant SaaS architecture
-📦  Currently shipping a confidential enterprise multi-tenant SaaS platform
-```
 
 ---
  
@@ -66,8 +64,9 @@ I write 100% of my own backend code. I use AI tooling for frontend implementatio
 ### Stack
  
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,tailwind,docker,nginx,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,docker,nginx,git&theme=dark" />
 </p>
+
 ---
  
 ### Featured Project
@@ -81,16 +80,10 @@ A multi-tenant SaaS platform supporting three distinct roles — **System Owner*
 - MVC + Service Layer + DTOs, with Eloquent polymorphic relationships where domains genuinely overlap
 - Zero N+1 by default (eager loading enforced), cache stampede prevention via jitter, deferrable service providers
 📄 Full architecture write-up (no source code, per NDA): **[link to your case-study doc]**
- 
----
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=dark&bg_color=090A0F&title_color=56D2C0&icon_color=FFB454&text_color=8A91A6&border_color=11131A&hide_border=false" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourhandle&theme=dark&background=090A0F&stroke=11131A&ring=56D2C0&fire=FFB454&currStreakLabel=56D2C0&sideLabels=8A91A6&dates=8A91A6&hide_border=false" height="165" />
-</div>
+
+
 ---
 
-<br>
 
 ## 📊 GitHub Stats
 
@@ -108,6 +101,6 @@ A multi-tenant SaaS platform supporting three distinct roles — **System Owner*
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-abdelrazek)
-[![Portfolio](https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=googlechrome&logoColor=34d399)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=googlechrome&logoColor=34d399)](https://#)
 
 </div>
