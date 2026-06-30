@@ -62,6 +62,7 @@ A high-performance e-commerce engine designed for trading in-game currency and d
 * **Performance Engineering:**
     * Optimized database interactions to achieve **zero N+1 query** performance.
     * Implemented **in-memory tenant isolation** and advanced cache-tagging strategies to ensure high availability and low latency.
+  
 📄 **[Request Architecture Case Study]** (Private repo available for review upon request).
 
 ---
