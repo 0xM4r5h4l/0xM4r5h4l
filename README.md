@@ -47,9 +47,9 @@ Verified contributor to application security, recognized by enterprise-level pro
 
 ---
 
-### 🏗️ Featured Project: Multi-Tenant SaaS
+### 🏗️ Featured Project: Enterprise Domain-based (Multi-tenant SaaS Engine)
 *Enterprise-grade engagement (NDA)*
-A complex SaaS architecture structurally similar to Shopify.
+A high-performance e-commerce engine designed for trading in-game currency and digital assets. This platform manages complex, high-frequency transactions across multiple merchants, with a focus on strict data isolation and secure inventory management.
 * **Security Infrastructure:**
     * **Custom OAuth Flow:** Implemented a secure, tenant-aware authentication layer.
     * **Data Protection:** Applied **AES-256 encryption** for all sensitive tokens and transit payloads.
